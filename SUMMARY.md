@@ -5,7 +5,7 @@
 
 ## 操作系统
 
-* [MacOS 软件（自用列表）](cao-zuo-xi-tong/macos-ruan-jian-zi-yong-lie-biao.md)
+* [MacOS 软件（自用列表）](operating-system/macos-ruan-jian-zi-yong-lie-biao.md)
 
 ## 开发 - Java
 

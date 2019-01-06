@@ -9,7 +9,7 @@
 安装
 
 ```bash
-brew cask install gimp
+$ brew cask install gimp
 ```
 
 

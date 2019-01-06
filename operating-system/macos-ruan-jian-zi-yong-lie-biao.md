@@ -4,7 +4,13 @@
 
 ### 图像处理
 
-* GIMP
+#### GIMP
+
+安装
+
+```bash
+brew cask install gimp
+```
 
 
 

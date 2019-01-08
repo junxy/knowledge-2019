@@ -21,5 +21,5 @@
 
 ## Misc
 
-* [一些 YouTube 频道](misc/yi-xie-youtube-pin-dao.md)
+* [一些 YouTube 频道](misc/youtube-channel.md)
 

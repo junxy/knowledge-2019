@@ -6,35 +6,12 @@ description: YouTube 频道推荐
 
 ## 知识类
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">频道名称</th>
-      <th style="text-align:left">简述</th>
-      <th style="text-align:left">地区</th>
-      <th style="text-align:left">订阅数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><a href="https://www.youtube.com/channel/UCeo3JwE3HezUWFdVcehQk9Q"><img src="https://yt3.ggpht.com/a-/AAuE7mDBQhDj07QkFf5kLm2Fj6k4P6hSQeNZ58dryg=s48-mo-c-c0xffffffff-rj-k-no" alt/>阿滴英文</a>
-      </td>
-      <td style="text-align:left">英文教学</td>
-      <td style="text-align:left">台湾</td>
-      <td style="text-align:left">199万</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://www.youtube.com/channel/UCHfY_EOzB1i57hYLSw_rYMg"><img src="https://yt3.ggpht.com/a-/AAuE7mCWnlj07QtWVnZNXh4fj_d42B5-0UNvfRMaZw=s48-mo-c-c0xffffffff-rj-k-no" alt/>理科太太</a>
-      </td>
-      <td style="text-align:left">
-        <p>科普，生活。</p>
-        <p>硅谷创业者，2018迅速蹿红台湾第一YouTuber。</p>
-      </td>
-      <td style="text-align:left">台湾</td>
-      <td style="text-align:left">66万</td>
-    </tr>
-  </tbody>
-</table>## 生活类
+| 频道名称 | 简述 | 地区 | 订阅数 |
+| :--- | :--- | :--- | :--- |
+| [![](https://yt3.ggpht.com/a-/AAuE7mDBQhDj07QkFf5kLm2Fj6k4P6hSQeNZ58dryg=s48-mo-c-c0xffffffff-rj-k-no)阿滴英文](https://www.youtube.com/channel/UCeo3JwE3HezUWFdVcehQk9Q) | 英文教学 | 台湾 | 199万 |
+| [![](https://yt3.ggpht.com/a-/AAuE7mCWnlj07QtWVnZNXh4fj_d42B5-0UNvfRMaZw=s48-mo-c-c0xffffffff-rj-k-no)理科太太](https://www.youtube.com/channel/UCHfY_EOzB1i57hYLSw_rYMg) | 科普，生活。硅谷创业者，2018迅速蹿红台湾第一YouTuber。 | 台湾 | 66万 |
+
+## 生活类
 
 | 频道名称 | 简述 | 地区 | 订阅数 |
 | :--- | :--- | :--- | :--- |

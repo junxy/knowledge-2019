@@ -1,7 +1,3 @@
----
-description: 演示
----
-
 # Initial page
 
 ## Getting Super Powers

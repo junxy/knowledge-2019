@@ -5,8 +5,7 @@
 | 频道名称 | 简述 | 地区 | 订阅数 |
 | :--- | :--- | :--- | :--- |
 | [![](https://yt3.ggpht.com/a-/AAuE7mDBQhDj07QkFf5kLm2Fj6k4P6hSQeNZ58dryg=s48-mo-c-c0xffffffff-rj-k-no)阿滴英文](https://www.youtube.com/channel/UCeo3JwE3HezUWFdVcehQk9Q) | 英文教学 | 台湾 | 199万 |
-| [![](https://yt3.ggpht.com/a-/AAuE7mCWnlj07QtWVnZNXh4fj_d42B5-0UNvfRMaZw=s48-mo-c-c0xffffffff-rj-k-no)理科太太](https://www.youtube.com/channel/UCHfY_EOzB1i57hYLSw_rYMg) | 科普，生活。硅谷创业者，2018迅速蹿红台湾第一YouTuber | 台湾 | 66万 |
-|  |  |  |  |
+| [![](https://yt3.ggpht.com/a-/AAuE7mCWnlj07QtWVnZNXh4fj_d42B5-0UNvfRMaZw=s48-mo-c-c0xffffffff-rj-k-no)理科太太](https://www.youtube.com/channel/UCHfY_EOzB1i57hYLSw_rYMg) | 科普，生活。硅谷创业者，2018迅速蹿红台湾第一YouTuber。 | 台湾 | 66万 |
 
 ## 生活类
 
@@ -18,5 +17,4 @@
 | [![](https://yt3.ggpht.com/a-/AAuE7mCsNaHMYkc7km4MWOyygS9GNkFQ__zGWVbrHA=s48-mo-c-c0xffffffff-rj-k-no)歐陽娜娜Nana OuYang](https://www.youtube.com/channel/UCCo41cmOu6fcku2O8J54bdA) | 欧阳娜娜日常Vlog | 台湾 | 27万 |
 
 ## 其他
-
 

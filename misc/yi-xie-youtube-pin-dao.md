@@ -12,7 +12,7 @@
 
 | 频道名称 | 简述 | 地区 | 订阅数 |
 | :--- | :--- | :--- | :--- |
-| [Ryuuu TV / 學日文看日本](https://www.youtube.com/channel/UCCZS6YMggfiRV_U7NuiNNsg) | 日语学习，日本文化分享 | 日本 | 135万 |
+| [![](https://yt3.ggpht.com/a-/AAuE7mB0b7l8mzGv2NlDXpFYp89dByWvz_76K0Lf-w=s48-mo-c-c0xffffffff-rj-k-no)Ryuuu TV / 學日文看日本](https://www.youtube.com/channel/UCCZS6YMggfiRV_U7NuiNNsg) | 日语学习，日本文化分享 | 日本 | 135万 |
 | [![](https://yt3.ggpht.com/a-/AAuE7mB7xYfLSiKvA7pPttOieYiqvbCKjTWAS27bVA=s48-mo-c-c0xffffffff-rj-k-no)滴妹](https://www.youtube.com/channel/UCGpNjY0Xq2GJLXh4OOX1LOA) | 阿滴英文滴妹个人频道 | 台湾 | 88万 |
 | [KUAIZERO](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ) （老高） | 都市传说 | 日本 | 75万 |
 | [歐陽娜娜Nana OuYang](https://www.youtube.com/channel/UCCo41cmOu6fcku2O8J54bdA) | 欧阳娜娜日常Vlog | 台湾 | 27万 |

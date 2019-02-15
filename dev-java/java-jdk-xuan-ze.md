@@ -18,8 +18,8 @@
 $ brew search zulu
 ==> Casks
 zulu    zulu10    zulu7    zulu8    zulu9
-$ brew install zulu8 #jdk8
-$ brew install zulu8 #jdk11 当前最新版本
+$ brew cask install zulu8 #jdk8
+$ brew cask install zulu8 #jdk11 当前最新版本
 
 # 使用 sdkman（ https://sdkman.io/ ）安装
 # 相关文章：https://medium.com/@sdkman_/openjdk-what-flavour-what-version-5fb4c3e8df81
@@ -37,9 +37,10 @@ adoptopenjdk              adoptopenjdk11-jre        adoptopenjdk9
 adoptopenjdk10            adoptopenjdk11-openj9
 adoptopenjdk11            adoptopenjdk8
 # 提供多个版本（包括JVM版本）选择
+$ brew cask install adoptopenjdk8
 ```
 
-* \*\*\*\*[**OpenJDK**](https://jdk.java.net/) **\(**[**中文下载页面**](https://www.oracle.com/technetwork/cn/java/javase/downloads/index-jsp-138363-zhs.html)**\)**
+* \*\*\*\*[**OpenJDK**](https://jdk.java.net/) **\(**[**中文下载页面**](https://www.oracle.com/technetwork/cn/java/javase/downloads/index-jsp-138363-zhs.html)**\)**  _Oracle JDK 11+ **不可商业用途**_
 
 ```bash
 $ brew cask info java
@@ -50,10 +51,15 @@ $ brew cask info java
 * HotSpot （Oracle JDK、OpenJDK，CPU计算优势）
 * OpenJ9 （IBM‘s JDK，内存管理优势）
 
-### 其他参考
+### 相关参考
 
 1. [Comparing JVM performance; Zulu OpenJDK, OpenJDK, Oracle JDK, GraalVM CE](https://technology.amis.nl/2018/11/23/comparing-jvm-performance-zulu-openjdk-openjdk-oracle-jdk-graalvm-ce/)
 2. [OpenJ9 和 HotSpot 的对比 Part 1](https://www.oschina.net/translate/openj9-jvm-shootout)
-3. 
+3. [No Free Java LTS Version?](https://medium.com/codefx-weekly/no-free-java-lts-version-b850192745fb)
+4. [https://www.v2ex.com/t/492667](https://www.v2ex.com/t/492667)
+5. [https://www.zhihu.com/question/53791269](https://www.zhihu.com/question/53791269)
+
+
+
 
 

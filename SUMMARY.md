@@ -14,16 +14,16 @@
 
 ## 操作系统
 
-* [MacOS 软件（自用列表）](cao-zuo-xi-tong/macos-ruan-jian-zi-yong-lie-biao.md)
+* [MacOS 软件（自用列表）](operation-system/macos-ruan-jian-zi-yong-lie-biao.md)
 
 ## 开发 - 其他语言
 
-* [TODO](kai-fa-qi-ta-yu-yan/untitled.md)
+* [TODO](dev-misc/untitled.md)
 
 ## 开发 - PHP
 
-* [PHP](kai-fa-php/php.md)
-* [Changelog](kai-fa-php/changelog.md)
+* [PHP](dev-php/php.md)
+* [Changelog](dev-php/changelog.md)
 
 ## Misc
 

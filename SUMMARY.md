@@ -4,18 +4,22 @@
 
 ## 操作系统
 
-* [MacOS 软件（自用列表）](cao-zuo-xi-tong/macos-ruan-jian-zi-yong-lie-biao.md)
+* [MacOS 软件（自用列表）](operation-system/macos-ruan-jian-zi-yong-lie-biao.md)
 
 ## 开发 - Java
 
-* [Java](kai-fa-java/java.md)
-* [Java 反应式编程](kai-fa-java/java-reactive.md)
-* [Java Spring Framework](kai-fa-java/sprint.md)
+* [Java](dev-java/java.md)
+* [Java 反应式编程](dev-java/java-reactive.md)
+* [Java Spring Framework](dev-java/sprint.md)
+
+## DevOps
+
+* [K8s](devops/k8s.md)
 
 ## 开发 - PHP
 
-* [PHP](kai-fa-php/php.md)
-* [Changelog](kai-fa-php/changelog.md)
+* [PHP](dev-php/php.md)
+* [Changelog](dev-php/changelog.md)
 
 ## 开发 - 其他语言
 
